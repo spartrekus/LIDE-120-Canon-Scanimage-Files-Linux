@@ -2,9 +2,7 @@
 LIDE-120-Canon-Scanimage-Files-Linux
 
 
-===================================
-METHODE TO INSTALL LIDE 120 CANON
-===================================
+# METHODE TO INSTALL LIDE 120 CANON
 
 Info: no warranty. this method is by --forcing the installation. 
 May break your system, but it works on my system ;)
