@@ -50,3 +50,26 @@ then  type # scanimage -L  to see if you scanner is detected.
    from vuex3295.tgz
 
 THIS METHOD IS A WORK AROUND And Has NO WARRANTY.
+
+
+
+uname  -a...
+4.5.5 #1 SMP   UTC 2016 i686 GNU/Linux
+
+some modules present...
+ahci                   36864  0
+libahci                28672  1 ahci
+xhci_pci               16384  0
+libata                184320  2 ahci,libahci
+xhci_hcd              151552  1 xhci_pci
+usbcore               180224  9 uas,ath3k,btusb,uvcvideo,rtsx_usb,usb_storage,usbhid,xhci_hcd,xhci_pci
+scsi_mod              180224  5 sg,uas,usb_storage,libata,sd_mod
+usb_common             16384  1 usbcore
+fan                    16384  0
+thermal                20480  0
+i2c_hid                20480  0
+hid                    90112  4 i2c_hid,hid_multitouch,hid_generic,usbhid
+sdhci_acpi             16384  0
+sdhci                  40960  1 sdhci_acpi
+mmc_core              106496  3 sdhci,sdhci_acpi,rtsx_usb_sdmmc
+
